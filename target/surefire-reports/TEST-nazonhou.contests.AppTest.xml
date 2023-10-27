@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="nazonhou.contests.AppTest" time="0.036" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="c:\Users\azonhou0166\eclipse-workspace\devteamweek3\target\test-classes;c:\Users\azonhou0166\eclipse-workspace\devteamweek3\target\classes;C:\Users\azonhou0166\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\azonhou0166\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Africa/Lagos"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.3.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\AZONHO~1\AppData\Local\Temp\surefire2204450716687247037\surefirebooter6542528188409610606.jar C:\Users\azonhou0166\AppData\Local\Temp\surefire2204450716687247037 2023-10-26T11-01-03_010-jvmRun1 surefire10982540951798541977tmp surefire_014490943754997768736tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="c:\Users\azonhou0166\eclipse-workspace\devteamweek3\target\test-classes;c:\Users\azonhou0166\eclipse-workspace\devteamweek3\target\classes;C:\Users\azonhou0166\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\azonhou0166\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\azonhou0166"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-04-22"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.3.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="c:\Users\azonhou0166\eclipse-workspace\devteamweek3"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\AZONHO~1\AppData\Local\Temp\surefire2204450716687247037\surefirebooter6542528188409610606.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.3.1+2-LTS-6"/>
+    <property name="user.name" value="azonhou0166"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\azonhou0166\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\AZONHO~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.3.1"/>
+    <property name="user.dir" value="c:\Users\azonhou0166\eclipse-workspace\devteamweek3"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.3.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python311\Scripts\;C:\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-17.0.3.1\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\php\php-8.2.8-nts;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Maven\apache-maven-3.9.5\bin;C:\Program Files\payara5\bin;C:\Program Files\PostgreSQL\14\bin;C:\android_sdk\platform-tools;C:\android_sdk\build-tools\33.0.0;C:\android_sdk\cmdline-tools\latest\bin;C:\Users\azonhou0166\kubectl\;C:\Users\azonhou0166\minikube\;C:\wamp64\bin\mysql\mysql8.0.27\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Go\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\PuTTY\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Vagrant\bin;C:\Users\azonhou0166\AppData\Local\Microsoft\WindowsApps;C:\Users\azonhou0166\AppData\Roaming\Composer\vendor\bin;C:\Program Files\JetBrains\PhpStorm 2022.1.1\bin;C:\Users\azonhou0166\AppData\Roaming\npm;C:\Users\azonhou0166\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\azonhou0166\go\bin;C:\Users\azonhou0166\AppData\Local\JetBrains\Toolbox\scripts;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.3.1+2-LTS-6"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="nazonhou.contests.AppTest" time="0.002"/>
+</testsuite>
